@@ -1,7 +1,7 @@
 # LoginSignup
 
 To execute the program
-Required softwares jupyter Notebook(Preffered), Xampp
+Required softwares jupyter Notebook(Preffered) or Other Competible and Xampp.
 
 Run the .py file
 
